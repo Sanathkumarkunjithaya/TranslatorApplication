@@ -1,0 +1,6 @@
+flask==3.1.1
+flask-socketio==5.5.1
+flask-cors==6.0.1
+deep-translator==1.11.4
+eventlet==0.40.1
+cartesia==2.0.5

@@ -1,0 +1,386 @@
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 946-500-173
+(66896) wsgi starting up on http://0.0.0.0:5000
+(66896) accepted ('127.0.0.1', 62261)
+127.0.0.1 - - [25/Jun/2025 15:22:33] "GET /socket.io/?EIO=4&transport=polling&t=rzyshpt7 HTTP/1.1" 200 352 0.000592
+127.0.0.1 - - [25/Jun/2025 15:22:33] "POST /socket.io/?EIO=4&transport=polling&t=rzysmt0k&sid=ap-kERcRrBvVKNjOAAAA HTTP/1.1" 200 219 0.002636
+(66896) accepted ('127.0.0.1', 62262)
+(66896) accepted ('127.0.0.1', 62263)
+127.0.0.1 - - [25/Jun/2025 15:22:33] "GET /socket.io/?EIO=4&transport=polling&t=rzysnezh&sid=ap-kERcRrBvVKNjOAAAA HTTP/1.1" 200 233 0.000229
+127.0.0.1 - - [25/Jun/2025 15:22:33] "GET /socket.io/?EIO=4&transport=polling&t=rzystz6j&sid=ap-kERcRrBvVKNjOAAAA HTTP/1.1" 200 233 0.000134
+127.0.0.1 - - [25/Jun/2025 15:22:33] "GET /socket.io/?EIO=4&transport=polling&t=rzyyua7b HTTP/1.1" 200 352 0.000375
+127.0.0.1 - - [25/Jun/2025 15:22:33] "POST /socket.io/?EIO=4&transport=polling&t=rzyyyukc&sid=DT1fxObf_Wb_ZkEIAAAC HTTP/1.1" 200 219 0.001059
+127.0.0.1 - - [25/Jun/2025 15:22:33] "GET /socket.io/?EIO=4&transport=polling&t=rzyyzkz7&sid=DT1fxObf_Wb_ZkEIAAAC HTTP/1.1" 200 265 0.000153
+(66896) accepted ('127.0.0.1', 62264)
+127.0.0.1 - - [25/Jun/2025 15:22:34] "GET /socket.io/?EIO=4&transport=polling&t=rzyz3zzd&sid=DT1fxObf_Wb_ZkEIAAAC HTTP/1.1" 200 233 0.000152
+127.0.0.1 - - [25/Jun/2025 15:22:34] "GET /socket.io/?EIO=4&transport=polling&t=rzyzf1sq&sid=DT1fxObf_Wb_ZkEIAAAC HTTP/1.1" 200 233 0.000171
+127.0.0.1 - - [25/Jun/2025 15:22:38] "GET /socket.io/?EIO=4&transport=polling&t=s023ue8z HTTP/1.1" 200 352 0.000372
+127.0.0.1 - - [25/Jun/2025 15:22:38] "POST /socket.io/?EIO=4&transport=polling&t=s023y00m&sid=O14g3z1b3V63eYOYAAAE HTTP/1.1" 200 219 0.000952
+127.0.0.1 - - [25/Jun/2025 15:22:38] "GET /socket.io/?EIO=4&transport=polling&t=s023z927&sid=O14g3z1b3V63eYOYAAAE HTTP/1.1" 200 265 0.000170
+(66896) accepted ('127.0.0.1', 62265)
+127.0.0.1 - - [25/Jun/2025 15:22:38] "GET /socket.io/?EIO=4&transport=polling&t=s0243zey&sid=O14g3z1b3V63eYOYAAAE HTTP/1.1" 200 233 0.000143
+127.0.0.1 - - [25/Jun/2025 15:22:38] "GET /socket.io/?EIO=4&transport=polling&t=s02462yq&sid=O14g3z1b3V63eYOYAAAE HTTP/1.1" 200 233 0.000151
+127.0.0.1 - - [25/Jun/2025 15:22:43] "GET /socket.io/?EIO=4&transport=polling&t=s06nctsl HTTP/1.1" 200 352 0.000539
+127.0.0.1 - - [25/Jun/2025 15:22:43] "POST /socket.io/?EIO=4&transport=polling&t=s06nj636&sid=oG306-s-hKa3XBIOAAAG HTTP/1.1" 200 219 0.001286
+127.0.0.1 - - [25/Jun/2025 15:22:43] "GET /socket.io/?EIO=4&transport=polling&t=s06nkmce&sid=oG306-s-hKa3XBIOAAAG HTTP/1.1" 200 265 0.000263
+(66896) accepted ('127.0.0.1', 62317)
+127.0.0.1 - - [25/Jun/2025 15:22:43] "GET /socket.io/?EIO=4&transport=polling&t=s06nq6qp&sid=oG306-s-hKa3XBIOAAAG HTTP/1.1" 200 233 0.000230
+127.0.0.1 - - [25/Jun/2025 15:22:43] "GET /socket.io/?EIO=4&transport=polling&t=s06nvbaq&sid=oG306-s-hKa3XBIOAAAG HTTP/1.1" 200 233 0.000166
+(66896) accepted ('127.0.0.1', 62348)
+127.0.0.1 - - [25/Jun/2025 15:22:50] "GET /api/voices HTTP/1.1" 200 220 0.002074
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=websocket&sid=DT1fxObf_Wb_ZkEIAAAC HTTP/1.1" 200 0 42.224104
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /api/voices HTTP/1.1" 200 278 0.000737
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=polling&t=s0vo0vh2 HTTP/1.1" 200 352 0.000299
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /api/voices HTTP/1.1" 200 278 0.000614
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=polling&t=s0vo3rr3 HTTP/1.1" 200 352 0.000244
+127.0.0.1 - - [25/Jun/2025 15:23:16] "POST /socket.io/?EIO=4&transport=polling&t=s0vo8ob6&sid=DBN360etIC5BYvWwAAAJ HTTP/1.1" 200 219 0.002141
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=polling&t=s0vo94ja&sid=DBN360etIC5BYvWwAAAJ HTTP/1.1" 200 265 0.001630
+(66896) accepted ('127.0.0.1', 62361)
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=polling&t=s0vohuu0&sid=DBN360etIC5BYvWwAAAJ HTTP/1.1" 200 233 0.000172
+127.0.0.1 - - [25/Jun/2025 15:23:16] "GET /socket.io/?EIO=4&transport=polling&t=s0vom6ry&sid=DBN360etIC5BYvWwAAAJ HTTP/1.1" 200 233 0.000173
+127.0.0.1 - - [25/Jun/2025 15:23:23] "GET / HTTP/1.1" 200 232 0.000541
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=websocket&sid=O14g3z1b3V63eYOYAAAE HTTP/1.1" 200 0 88.745235
+(66896) accepted ('127.0.0.1', 62387)
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /api/voices HTTP/1.1" 200 278 0.000735
+(66896) accepted ('127.0.0.1', 62388)
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=polling&t=s1yp5hew HTTP/1.1" 200 352 0.000318
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /api/voices HTTP/1.1" 200 278 0.000580
+(66896) accepted ('127.0.0.1', 62389)
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=polling&t=s1yp9x5l HTTP/1.1" 200 352 0.000259
+127.0.0.1 - - [25/Jun/2025 15:24:06] "POST /socket.io/?EIO=4&transport=polling&t=s1ypec3d&sid=1hqomz3sO3YptAJVAAAM HTTP/1.1" 200 219 0.001048
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=polling&t=s1ypf0mg&sid=1hqomz3sO3YptAJVAAAM HTTP/1.1" 200 265 0.000146
+(66896) accepted ('127.0.0.1', 62390)
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=polling&t=s1ypjs8x&sid=1hqomz3sO3YptAJVAAAM HTTP/1.1" 200 233 0.000149
+127.0.0.1 - - [25/Jun/2025 15:24:06] "GET /socket.io/?EIO=4&transport=polling&t=s1ypo1dk&sid=1hqomz3sO3YptAJVAAAM HTTP/1.1" 200 233 0.000160
+127.0.0.1 - - [25/Jun/2025 15:24:26] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000721
+127.0.0.1 - - [25/Jun/2025 15:24:27] "POST /api/tts HTTP/1.1" 200 36415 1.259960
+127.0.0.1 - - [25/Jun/2025 15:24:37] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000650
+127.0.0.1 - - [25/Jun/2025 15:24:39] "POST /api/tts HTTP/1.1" 200 103291 1.931709
+127.0.0.1 - - [25/Jun/2025 15:24:54] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000659
+127.0.0.1 - - [25/Jun/2025 15:24:56] "POST /api/tts HTTP/1.1" 200 121123 2.183155
+127.0.0.1 - - [25/Jun/2025 15:25:06] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000646
+127.0.0.1 - - [25/Jun/2025 15:25:08] "POST /api/tts HTTP/1.1" 200 87685 1.706446
+127.0.0.1 - - [25/Jun/2025 15:25:25] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000657
+127.0.0.1 - - [25/Jun/2025 15:25:26] "POST /api/tts HTTP/1.1" 200 65393 1.377899
+127.0.0.1 - - [25/Jun/2025 15:25:47] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000664
+127.0.0.1 - - [25/Jun/2025 15:25:52] "POST /api/tts HTTP/1.1" 200 332889 4.442467
+127.0.0.1 - - [25/Jun/2025 15:26:04] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000588
+127.0.0.1 - - [25/Jun/2025 15:26:04] "POST /api/tts HTTP/1.1" 400 241 0.000967
+127.0.0.1 - - [25/Jun/2025 15:26:14] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000649
+127.0.0.1 - - [25/Jun/2025 15:26:16] "POST /api/tts HTTP/1.1" 200 105519 1.832965
+127.0.0.1 - - [25/Jun/2025 15:26:22] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000660
+127.0.0.1 - - [25/Jun/2025 15:26:23] "POST /api/tts HTTP/1.1" 200 56476 1.339174
+127.0.0.1 - - [25/Jun/2025 15:26:35] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000644
+127.0.0.1 - - [25/Jun/2025 15:26:36] "POST /api/tts HTTP/1.1" 200 47561 1.001945
+127.0.0.1 - - [25/Jun/2025 15:26:56] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000641
+127.0.0.1 - - [25/Jun/2025 15:26:57] "POST /api/tts HTTP/1.1" 200 92143 1.729078
+(66896) accepted ('127.0.0.1', 62536)
+127.0.0.1 - - [25/Jun/2025 15:28:23] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000505
+127.0.0.1 - - [25/Jun/2025 15:28:23] "POST /api/tts HTTP/1.1" 400 241 0.000415
+127.0.0.1 - - [25/Jun/2025 15:28:29] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000646
+127.0.0.1 - - [25/Jun/2025 15:28:31] "POST /api/tts HTTP/1.1" 200 60934 2.088633
+127.0.0.1 - - [25/Jun/2025 15:28:36] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000574
+127.0.0.1 - - [25/Jun/2025 15:28:36] "POST /api/tts HTTP/1.1" 400 241 0.000504
+127.0.0.1 - - [25/Jun/2025 15:28:47] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000657
+127.0.0.1 - - [25/Jun/2025 15:28:48] "POST /api/tts HTTP/1.1" 200 56477 1.219259
+127.0.0.1 - - [25/Jun/2025 15:28:55] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000613
+127.0.0.1 - - [25/Jun/2025 15:28:55] "POST /api/tts HTTP/1.1" 400 241 0.000715
+127.0.0.1 - - [25/Jun/2025 15:29:05] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000645
+127.0.0.1 - - [25/Jun/2025 15:29:08] "POST /api/tts HTTP/1.1" 200 254871 3.613920
+127.0.0.1 - - [25/Jun/2025 15:29:17] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000677
+127.0.0.1 - - [25/Jun/2025 15:29:18] "POST /api/tts HTTP/1.1" 200 43103 1.360433
+127.0.0.1 - - [25/Jun/2025 15:29:32] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000613
+127.0.0.1 - - [25/Jun/2025 15:29:32] "POST /api/tts HTTP/1.1" 400 241 0.000563
+127.0.0.1 - - [25/Jun/2025 15:29:44] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000648
+127.0.0.1 - - [25/Jun/2025 15:29:46] "POST /api/tts HTTP/1.1" 200 94370 2.009223
+127.0.0.1 - - [25/Jun/2025 15:30:10] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001031
+127.0.0.1 - - [25/Jun/2025 15:30:10] "POST /api/tts HTTP/1.1" 400 241 0.001334
+127.0.0.1 - - [25/Jun/2025 15:30:23] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000673
+127.0.0.1 - - [25/Jun/2025 15:30:28] "POST /api/tts HTTP/1.1" 200 359638 4.391080
+127.0.0.1 - - [25/Jun/2025 15:30:40] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000582
+127.0.0.1 - - [25/Jun/2025 15:30:40] "POST /api/tts HTTP/1.1" 400 241 0.000504
+127.0.0.1 - - [25/Jun/2025 15:30:50] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000573
+127.0.0.1 - - [25/Jun/2025 15:30:52] "POST /api/tts HTTP/1.1" 200 69851 1.222083
+127.0.0.1 - - [25/Jun/2025 15:30:58] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000509
+127.0.0.1 - - [25/Jun/2025 15:30:58] "POST /api/tts HTTP/1.1" 400 241 0.000437
+127.0.0.1 - - [25/Jun/2025 15:31:16] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000674
+127.0.0.1 - - [25/Jun/2025 15:31:20] "POST /api/tts HTTP/1.1" 200 341804 4.086619
+(66896) accepted ('127.0.0.1', 62613)
+127.0.0.1 - - [25/Jun/2025 15:32:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000621
+127.0.0.1 - - [25/Jun/2025 15:32:13] "POST /api/tts HTTP/1.1" 400 241 0.000673
+(66896) accepted ('127.0.0.1', 62762)
+127.0.0.1 - - [25/Jun/2025 15:35:15] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001127
+127.0.0.1 - - [25/Jun/2025 15:35:16] "POST /api/tts HTTP/1.1" 200 36415 0.948602
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=websocket&sid=oG306-s-hKa3XBIOAAAG HTTP/1.1" 200 0 760.292760
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /api/voices HTTP/1.1" 200 278 0.000590
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=polling&t=sghf6s11 HTTP/1.1" 200 352 0.000259
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /api/voices HTTP/1.1" 200 278 0.000580
+(66896) accepted ('127.0.0.1', 62766)
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=polling&t=sghf93hf HTTP/1.1" 200 352 0.000193
+127.0.0.1 - - [25/Jun/2025 15:35:24] "POST /socket.io/?EIO=4&transport=polling&t=sghfduj2&sid=ukoOMQ0fACGesWsNAAAP HTTP/1.1" 200 219 0.000690
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=polling&t=sghfexch&sid=ukoOMQ0fACGesWsNAAAP HTTP/1.1" 200 265 0.000118
+(66896) accepted ('127.0.0.1', 62767)
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=polling&t=sghfhtxx&sid=ukoOMQ0fACGesWsNAAAP HTTP/1.1" 200 233 0.000152
+127.0.0.1 - - [25/Jun/2025 15:35:24] "GET /socket.io/?EIO=4&transport=polling&t=sghfl9py&sid=ukoOMQ0fACGesWsNAAAP HTTP/1.1" 200 233 0.000138
+127.0.0.1 - - [25/Jun/2025 15:35:54] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000660
+127.0.0.1 - - [25/Jun/2025 15:35:56] "POST /api/tts HTTP/1.1" 200 40871 1.114110
+127.0.0.1 - - [25/Jun/2025 15:36:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000680
+127.0.0.1 - - [25/Jun/2025 15:36:14] "POST /api/tts HTTP/1.1" 200 43103 1.235416
+127.0.0.1 - - [25/Jun/2025 15:36:24] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000641
+127.0.0.1 - - [25/Jun/2025 15:36:24] "POST /api/tts HTTP/1.1" 400 241 0.000723
+127.0.0.1 - - [25/Jun/2025 15:36:30] "POST /api/tts HTTP/1.1" 200 47561 1.109749
+127.0.0.1 - - [25/Jun/2025 15:37:05] "GET /socket.io/?EIO=4&transport=websocket&sid=ukoOMQ0fACGesWsNAAAP HTTP/1.1" 200 0 101.074579
+(66896) accepted ('127.0.0.1', 62809)
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /api/voices HTTP/1.1" 200 278 0.000631
+(66896) accepted ('127.0.0.1', 62810)
+(66896) accepted ('127.0.0.1', 62811)
+(66896) accepted ('127.0.0.1', 62812)
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /socket.io/?EIO=4&transport=polling&t=siph4qzi HTTP/1.1" 200 352 0.000222
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /api/voices HTTP/1.1" 200 278 0.000640
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /socket.io/?EIO=4&transport=polling&t=siph5b5y HTTP/1.1" 200 352 0.000225
+127.0.0.1 - - [25/Jun/2025 15:37:08] "POST /socket.io/?EIO=4&transport=polling&t=siphccuq&sid=1qEjRFuAEu1oDjcSAAAS HTTP/1.1" 200 219 0.001143
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /socket.io/?EIO=4&transport=polling&t=siphdgly&sid=1qEjRFuAEu1oDjcSAAAS HTTP/1.1" 200 265 0.000140
+(66896) accepted ('127.0.0.1', 62813)
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /socket.io/?EIO=4&transport=polling&t=siphhoy7&sid=1qEjRFuAEu1oDjcSAAAS HTTP/1.1" 200 233 0.000138
+127.0.0.1 - - [25/Jun/2025 15:37:08] "GET /socket.io/?EIO=4&transport=polling&t=siphl7pz&sid=1qEjRFuAEu1oDjcSAAAS HTTP/1.1" 200 233 0.000172
+127.0.0.1 - - [25/Jun/2025 15:37:27] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000885
+127.0.0.1 - - [25/Jun/2025 15:37:27] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000584
+127.0.0.1 - - [25/Jun/2025 15:37:28] "POST /api/tts HTTP/1.1" 200 34185 1.022857
+127.0.0.1 - - [25/Jun/2025 15:37:29] "POST /api/tts HTTP/1.1" 200 43103 0.968863
+127.0.0.1 - - [25/Jun/2025 15:37:52] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000692
+127.0.0.1 - - [25/Jun/2025 15:37:52] "POST /api/tts HTTP/1.1" 200 23041 0.713748
+127.0.0.1 - - [25/Jun/2025 15:37:53] "POST /api/tts HTTP/1.1" 200 36414 0.766741
+127.0.0.1 - - [25/Jun/2025 15:37:58] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000732
+127.0.0.1 - - [25/Jun/2025 15:37:58] "POST /api/tts HTTP/1.1" 200 23040 0.727804
+127.0.0.1 - - [25/Jun/2025 15:38:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000664
+127.0.0.1 - - [25/Jun/2025 15:38:14] "POST /api/tts HTTP/1.1" 200 58707 1.046891
+127.0.0.1 - - [25/Jun/2025 15:38:15] "POST /api/tts HTTP/1.1" 200 63165 1.099259
+127.0.0.1 - - [25/Jun/2025 15:38:36] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000670
+127.0.0.1 - - [25/Jun/2025 15:38:36] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000516
+127.0.0.1 - - [25/Jun/2025 15:38:37] "POST /api/tts HTTP/1.1" 200 40872 1.296198
+127.0.0.1 - - [25/Jun/2025 15:38:38] "POST /api/tts HTTP/1.1" 200 31957 0.869397
+(66896) accepted ('127.0.0.1', 62892)
+127.0.0.1 - - [25/Jun/2025 15:40:50] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000655
+(66896) accepted ('127.0.0.1', 62893)
+127.0.0.1 - - [25/Jun/2025 15:40:50] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000498
+127.0.0.1 - - [25/Jun/2025 15:40:52] "POST /api/tts HTTP/1.1" 200 67623 1.537837
+127.0.0.1 - - [25/Jun/2025 15:40:52] "POST /api/tts HTTP/1.1" 200 43103 0.921155
+(66896) accepted ('127.0.0.1', 62897)
+127.0.0.1 - - [25/Jun/2025 15:41:39] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000662
+127.0.0.1 - - [25/Jun/2025 15:41:40] "POST /api/tts HTTP/1.1" 200 132269 1.933157
+(66896) accepted ('127.0.0.1', 62898)
+127.0.0.1 - - [25/Jun/2025 15:41:42] "POST /api/tts HTTP/1.1" 200 87685 1.433386
+127.0.0.1 - - [25/Jun/2025 15:42:04] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000659
+127.0.0.1 - - [25/Jun/2025 15:42:04] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000532
+127.0.0.1 - - [25/Jun/2025 15:42:04] "POST /api/tts HTTP/1.1" 400 241 0.000566
+127.0.0.1 - - [25/Jun/2025 15:42:04] "POST /api/tts HTTP/1.1" 400 241 0.000942
+127.0.0.1 - - [25/Jun/2025 15:42:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000571
+127.0.0.1 - - [25/Jun/2025 15:42:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000422
+127.0.0.1 - - [25/Jun/2025 15:42:16] "POST /api/tts HTTP/1.1" 200 170163 2.650130
+127.0.0.1 - - [25/Jun/2025 15:42:17] "POST /api/tts HTTP/1.1" 200 52019 1.022463
+127.0.0.1 - - [25/Jun/2025 15:42:34] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000660
+127.0.0.1 - - [25/Jun/2025 15:42:34] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000520
+127.0.0.1 - - [25/Jun/2025 15:42:36] "POST /api/tts HTTP/1.1" 200 85455 1.741415
+127.0.0.1 - - [25/Jun/2025 15:42:37] "POST /api/tts HTTP/1.1" 200 123353 1.741664
+127.0.0.1 - - [25/Jun/2025 15:42:55] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000650
+127.0.0.1 - - [25/Jun/2025 15:42:55] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000426
+127.0.0.1 - - [25/Jun/2025 15:42:56] "POST /api/tts HTTP/1.1" 200 38645 0.958267
+127.0.0.1 - - [25/Jun/2025 15:42:57] "POST /api/tts HTTP/1.1" 200 63165 1.334101
+127.0.0.1 - - [25/Jun/2025 15:43:32] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000731
+127.0.0.1 - - [25/Jun/2025 15:43:32] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000612
+127.0.0.1 - - [25/Jun/2025 15:43:33] "POST /api/tts HTTP/1.1" 200 31957 1.646207
+127.0.0.1 - - [25/Jun/2025 15:43:34] "POST /api/tts HTTP/1.1" 200 56477 1.125714
+(66896) accepted ('127.0.0.1', 63021)
+(66896) accepted ('127.0.0.1', 63022)
+127.0.0.1 - - [25/Jun/2025 15:43:35] "POST /api/tts HTTP/1.1" 200 45331 1.023149
+127.0.0.1 - - [25/Jun/2025 15:43:37] "POST /api/tts HTTP/1.1" 200 56476 1.126999
+127.0.0.1 - - [25/Jun/2025 15:43:38] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000680
+127.0.0.1 - - [25/Jun/2025 15:43:38] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000529
+127.0.0.1 - - [25/Jun/2025 15:43:39] "POST /api/tts HTTP/1.1" 200 65393 1.216655
+127.0.0.1 - - [25/Jun/2025 15:43:40] "POST /api/tts HTTP/1.1" 200 49789 0.991246
+127.0.0.1 - - [25/Jun/2025 15:43:44] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000715
+127.0.0.1 - - [25/Jun/2025 15:43:44] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000532
+127.0.0.1 - - [25/Jun/2025 15:43:45] "POST /api/tts HTTP/1.1" 200 34185 1.075343
+127.0.0.1 - - [25/Jun/2025 15:43:47] "POST /api/tts HTTP/1.1" 200 56477 1.305656
+127.0.0.1 - - [25/Jun/2025 15:43:57] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000583
+127.0.0.1 - - [25/Jun/2025 15:43:57] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000436
+127.0.0.1 - - [25/Jun/2025 15:43:57] "POST /api/tts HTTP/1.1" 400 241 0.000573
+127.0.0.1 - - [25/Jun/2025 15:43:57] "POST /api/tts HTTP/1.1" 400 241 0.001646
+127.0.0.1 - - [25/Jun/2025 15:44:11] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000633
+127.0.0.1 - - [25/Jun/2025 15:44:11] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000493
+127.0.0.1 - - [25/Jun/2025 15:44:14] "POST /api/tts HTTP/1.1" 200 132269 2.446504
+127.0.0.1 - - [25/Jun/2025 15:44:15] "POST /api/tts HTTP/1.1" 200 101061 1.842865
+127.0.0.1 - - [25/Jun/2025 15:44:33] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000727
+127.0.0.1 - - [25/Jun/2025 15:44:33] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000518
+127.0.0.1 - - [25/Jun/2025 15:44:34] "POST /api/tts HTTP/1.1" 200 29727 1.048350
+127.0.0.1 - - [25/Jun/2025 15:44:34] "POST /api/tts HTTP/1.1" 200 25269 0.818040
+127.0.0.1 - - [25/Jun/2025 15:44:39] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000706
+127.0.0.1 - - [25/Jun/2025 15:44:39] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000518
+127.0.0.1 - - [25/Jun/2025 15:44:40] "POST /api/tts HTTP/1.1" 200 20811 0.829530
+127.0.0.1 - - [25/Jun/2025 15:44:41] "POST /api/tts HTTP/1.1" 200 36415 1.124641
+127.0.0.1 - - [25/Jun/2025 15:44:56] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000736
+127.0.0.1 - - [25/Jun/2025 15:44:56] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001117
+127.0.0.1 - - [25/Jun/2025 15:44:58] "POST /api/tts HTTP/1.1" 200 54247 1.433283
+127.0.0.1 - - [25/Jun/2025 15:44:58] "POST /api/tts HTTP/1.1" 200 27499 0.733576
+127.0.0.1 - - [25/Jun/2025 15:45:32] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000664
+127.0.0.1 - - [25/Jun/2025 15:45:35] "POST /api/tts HTTP/1.1" 200 221431 3.058633
+127.0.0.1 - - [25/Jun/2025 15:45:38] "POST /api/tts HTTP/1.1" 200 201371 2.559515
+(66896) accepted ('127.0.0.1', 63128)
+127.0.0.1 - - [25/Jun/2025 15:46:49] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000579
+(66896) accepted ('127.0.0.1', 63129)
+127.0.0.1 - - [25/Jun/2025 15:46:49] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000439
+127.0.0.1 - - [25/Jun/2025 15:46:51] "POST /api/tts HTTP/1.1" 200 109977 1.935451
+127.0.0.1 - - [25/Jun/2025 15:46:52] "POST /api/tts HTTP/1.1" 200 69850 1.127012
+127.0.0.1 - - [25/Jun/2025 15:47:45] "GET /socket.io/?EIO=4&transport=websocket&sid=1qEjRFuAEu1oDjcSAAAS HTTP/1.1" 200 0 637.319463
+(66896) accepted ('127.0.0.1', 63204)
+127.0.0.1 - - [25/Jun/2025 15:48:29] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000935
+127.0.0.1 - - [25/Jun/2025 15:48:32] "POST /api/tts HTTP/1.1" 200 123353 2.847204
+127.0.0.1 - - [25/Jun/2025 15:48:49] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001068
+127.0.0.1 - - [25/Jun/2025 15:48:54] "POST /api/tts HTTP/1.1" 200 388617 4.985692
+127.0.0.1 - - [25/Jun/2025 15:49:09] "OPTIONS /api/tts HTTP/1.1" 200 347 0.002093
+127.0.0.1 - - [25/Jun/2025 15:49:09] "POST /api/tts HTTP/1.1" 400 241 0.001629
+127.0.0.1 - - [25/Jun/2025 15:49:18] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001155
+127.0.0.1 - - [25/Jun/2025 15:49:19] "POST /api/tts HTTP/1.1" 200 58707 1.106421
+127.0.0.1 - - [25/Jun/2025 15:49:30] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000931
+127.0.0.1 - - [25/Jun/2025 15:49:31] "POST /api/tts HTTP/1.1" 200 31957 0.817502
+127.0.0.1 - - [25/Jun/2025 15:49:37] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001617
+127.0.0.1 - - [25/Jun/2025 15:49:37] "POST /api/tts HTTP/1.1" 400 241 0.001320
+127.0.0.1 - - [25/Jun/2025 15:49:55] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000978
+127.0.0.1 - - [25/Jun/2025 15:50:01] "POST /api/tts HTTP/1.1" 200 422053 5.312121
+127.0.0.1 - - [25/Jun/2025 15:50:50] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001575
+127.0.0.1 - - [25/Jun/2025 15:50:51] "POST /api/tts HTTP/1.1" 200 49789 1.088380
+(66896) accepted ('127.0.0.1', 63267)
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /api/voices HTTP/1.1" 200 278 0.007027
+(66896) accepted ('127.0.0.1', 63268)
+(66896) accepted ('127.0.0.1', 63269)
+(66896) accepted ('127.0.0.1', 63270)
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /socket.io/?EIO=4&transport=polling&t=t1m9mgw0 HTTP/1.1" 200 352 0.000843
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /api/voices HTTP/1.1" 200 278 0.000900
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /socket.io/?EIO=4&transport=polling&t=t1m9qszw HTTP/1.1" 200 352 0.000339
+127.0.0.1 - - [25/Jun/2025 15:51:50] "POST /socket.io/?EIO=4&transport=polling&t=t1ma3p7l&sid=bzK72G4k7vFFvk5kAAAV HTTP/1.1" 200 219 0.002753
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /socket.io/?EIO=4&transport=polling&t=t1ma6weo&sid=bzK72G4k7vFFvk5kAAAV HTTP/1.1" 200 265 0.000251
+(66896) accepted ('127.0.0.1', 63271)
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /socket.io/?EIO=4&transport=polling&t=t1mae8iv&sid=bzK72G4k7vFFvk5kAAAV HTTP/1.1" 200 233 0.000385
+127.0.0.1 - - [25/Jun/2025 15:51:50] "GET /socket.io/?EIO=4&transport=polling&t=t1mb75yw&sid=bzK72G4k7vFFvk5kAAAV HTTP/1.1" 200 233 0.000235
+127.0.0.1 - - [25/Jun/2025 15:52:15] "OPTIONS /api/tts HTTP/1.1" 200 347 0.002627
+127.0.0.1 - - [25/Jun/2025 15:52:18] "POST /api/tts HTTP/1.1" 200 85455 3.105869
+127.0.0.1 - - [25/Jun/2025 15:52:42] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001076
+127.0.0.1 - - [25/Jun/2025 15:52:48] "POST /api/tts HTTP/1.1" 200 448802 5.510137
+127.0.0.1 - - [25/Jun/2025 15:53:03] "OPTIONS /api/tts HTTP/1.1" 200 347 0.002442
+127.0.0.1 - - [25/Jun/2025 15:53:03] "POST /api/tts HTTP/1.1" 400 241 0.001641
+127.0.0.1 - - [25/Jun/2025 15:53:12] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001036
+127.0.0.1 - - [25/Jun/2025 15:53:15] "POST /api/tts HTTP/1.1" 200 76539 2.895821
+127.0.0.1 - - [25/Jun/2025 15:53:27] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000953
+127.0.0.1 - - [25/Jun/2025 15:53:30] "POST /api/tts HTTP/1.1" 200 52019 2.749645
+127.0.0.1 - - [25/Jun/2025 15:53:34] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001187
+127.0.0.1 - - [25/Jun/2025 15:53:34] "POST /api/tts HTTP/1.1" 400 241 0.001385
+127.0.0.1 - - [25/Jun/2025 15:53:47] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000966
+127.0.0.1 - - [25/Jun/2025 15:53:52] "POST /api/tts HTTP/1.1" 200 413137 5.168278
+(66896) accepted ('127.0.0.1', 63432)
+127.0.0.1 - - [25/Jun/2025 15:55:02] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000720
+127.0.0.1 - - [25/Jun/2025 15:55:04] "POST /api/tts HTTP/1.1" 200 31957 1.132135
+127.0.0.1 - - [25/Jun/2025 15:55:06] "POST /api/tts HTTP/1.1" 200 36415 0.839216
+127.0.0.1 - - [25/Jun/2025 15:55:09] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000663
+127.0.0.1 - - [25/Jun/2025 15:55:12] "POST /api/tts HTTP/1.1" 200 34185 2.263394
+(66896) accepted ('127.0.0.1', 63446)
+127.0.0.1 - - [25/Jun/2025 15:56:41] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000702
+127.0.0.1 - - [25/Jun/2025 15:56:42] "POST /api/tts HTTP/1.1" 200 40873 1.212301
+127.0.0.1 - - [25/Jun/2025 15:57:08] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000976
+127.0.0.1 - - [25/Jun/2025 15:57:10] "POST /api/tts HTTP/1.1" 200 103291 1.623825
+127.0.0.1 - - [25/Jun/2025 15:57:32] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000713
+127.0.0.1 - - [25/Jun/2025 15:57:35] "POST /api/tts HTTP/1.1" 200 216974 2.943855
+127.0.0.1 - - [25/Jun/2025 15:57:44] "OPTIONS /api/tts HTTP/1.1" 200 347 0.002676
+127.0.0.1 - - [25/Jun/2025 15:57:44] "POST /api/tts HTTP/1.1" 400 241 0.000948
+127.0.0.1 - - [25/Jun/2025 15:57:53] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000685
+127.0.0.1 - - [25/Jun/2025 15:57:55] "POST /api/tts HTTP/1.1" 200 96601 1.968333
+127.0.0.1 - - [25/Jun/2025 15:58:08] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001479
+127.0.0.1 - - [25/Jun/2025 15:58:09] "POST /api/tts HTTP/1.1" 200 54247 1.785165
+127.0.0.1 - - [25/Jun/2025 15:58:27] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001529
+127.0.0.1 - - [25/Jun/2025 15:58:30] "POST /api/tts HTTP/1.1" 200 190225 3.017901
+127.0.0.1 - - [25/Jun/2025 15:58:39] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001182
+127.0.0.1 - - [25/Jun/2025 15:58:39] "POST /api/tts HTTP/1.1" 400 241 0.001327
+127.0.0.1 - - [25/Jun/2025 15:58:58] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000677
+127.0.0.1 - - [25/Jun/2025 15:59:02] "POST /api/tts HTTP/1.1" 200 228121 3.494823
+127.0.0.1 - - [25/Jun/2025 15:59:40] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000808
+127.0.0.1 - - [25/Jun/2025 15:59:41] "POST /api/tts HTTP/1.1" 200 34185 1.010595
+127.0.0.1 - - [25/Jun/2025 15:59:49] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000799
+127.0.0.1 - - [25/Jun/2025 15:59:51] "POST /api/tts HTTP/1.1" 200 130039 2.326099
+127.0.0.1 - - [25/Jun/2025 16:00:10] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000693
+127.0.0.1 - - [25/Jun/2025 16:00:13] "POST /api/tts HTTP/1.1" 200 183538 2.887535
+127.0.0.1 - - [25/Jun/2025 16:00:17] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000652
+127.0.0.1 - - [25/Jun/2025 16:00:18] "POST /api/tts HTTP/1.1" 200 58707 1.174150
+127.0.0.1 - - [25/Jun/2025 16:00:22] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000660
+127.0.0.1 - - [25/Jun/2025 16:00:24] "POST /api/tts HTTP/1.1" 200 56477 1.291419
+(66896) accepted ('127.0.0.1', 63649)
+127.0.0.1 - - [25/Jun/2025 16:16:39] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000625
+127.0.0.1 - - [25/Jun/2025 16:16:41] "POST /api/tts HTTP/1.1" 200 67623 1.598186
+127.0.0.1 - - [25/Jun/2025 16:16:47] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000579
+127.0.0.1 - - [25/Jun/2025 16:16:49] "POST /api/tts HTTP/1.1" 200 114437 1.884834
+127.0.0.1 - - [25/Jun/2025 16:16:57] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000624
+127.0.0.1 - - [25/Jun/2025 16:17:00] "POST /api/tts HTTP/1.1" 200 208059 2.755811
+127.0.0.1 - - [25/Jun/2025 16:17:10] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000629
+127.0.0.1 - - [25/Jun/2025 16:17:12] "POST /api/tts HTTP/1.1" 200 132268 1.925672
+127.0.0.1 - - [25/Jun/2025 16:17:34] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000755
+127.0.0.1 - - [25/Jun/2025 16:17:36] "POST /api/tts HTTP/1.1" 200 54247 1.297902
+127.0.0.1 - - [25/Jun/2025 16:17:57] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000866
+127.0.0.1 - - [25/Jun/2025 16:18:04] "POST /api/tts HTTP/1.1" 200 584779 7.295640
+127.0.0.1 - - [25/Jun/2025 16:18:20] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001374
+127.0.0.1 - - [25/Jun/2025 16:18:20] "POST /api/tts HTTP/1.1" 400 241 0.001352
+127.0.0.1 - - [25/Jun/2025 16:18:29] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000672
+127.0.0.1 - - [25/Jun/2025 16:18:30] "POST /api/tts HTTP/1.1" 200 67623 1.330520
+127.0.0.1 - - [25/Jun/2025 16:18:49] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000889
+127.0.0.1 - - [25/Jun/2025 16:18:53] "POST /api/tts HTTP/1.1" 200 199143 3.273513
+127.0.0.1 - - [25/Jun/2025 16:19:06] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000815
+127.0.0.1 - - [25/Jun/2025 16:19:08] "POST /api/tts HTTP/1.1" 200 49788 1.606635
+127.0.0.1 - - [25/Jun/2025 16:19:13] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001180
+127.0.0.1 - - [25/Jun/2025 16:19:13] "POST /api/tts HTTP/1.1" 400 241 0.001845
+127.0.0.1 - - [25/Jun/2025 16:19:27] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000802
+127.0.0.1 - - [25/Jun/2025 16:19:32] "POST /api/tts HTTP/1.1" 200 328431 4.522266
+(66896) accepted ('127.0.0.1', 63775)
+127.0.0.1 - - [25/Jun/2025 16:20:28] "OPTIONS /api/tts HTTP/1.1" 200 347 0.001182
+127.0.0.1 - - [25/Jun/2025 16:20:30] "POST /api/tts HTTP/1.1" 200 87685 2.022351
+127.0.0.1 - - [25/Jun/2025 16:20:36] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000851
+127.0.0.1 - - [25/Jun/2025 16:20:37] "POST /api/tts HTTP/1.1" 200 85455 1.802793
+127.0.0.1 - - [25/Jun/2025 16:21:10] "OPTIONS /api/tts HTTP/1.1" 200 347 0.000773
+127.0.0.1 - - [25/Jun/2025 16:21:11] "POST /api/tts HTTP/1.1" 200 101061 1.635476
+127.0.0.1 - - [25/Jun/2025 16:23:48] "GET /socket.io/?EIO=4&transport=websocket&sid=1hqomz3sO3YptAJVAAAM HTTP/1.1" 200 0 3581.913907
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=websocket&sid=bzK72G4k7vFFvk5kAAAV HTTP/1.1" 200 0 1944.789744
+(66896) accepted ('127.0.0.1', 63946)
+(66896) accepted ('127.0.0.1', 63947)
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /api/voices HTTP/1.1" 200 278 0.000553
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=polling&t=u7ax4qli HTTP/1.1" 200 352 0.000195
+(66896) accepted ('127.0.0.1', 63948)
+(66896) accepted ('127.0.0.1', 63949)
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /api/voices HTTP/1.1" 200 278 0.000477
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=polling&t=u7ax537w HTTP/1.1" 200 352 0.000183
+127.0.0.1 - - [25/Jun/2025 16:24:15] "POST /socket.io/?EIO=4&transport=polling&t=u7axb6ur&sid=NVEKnNMC7h2LesRcAAAY HTTP/1.1" 200 219 0.000564
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=polling&t=u7axch2e&sid=NVEKnNMC7h2LesRcAAAY HTTP/1.1" 200 265 0.000116
+(66896) accepted ('127.0.0.1', 63950)
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=polling&t=u7axfp2o&sid=NVEKnNMC7h2LesRcAAAY HTTP/1.1" 200 233 0.000112
+127.0.0.1 - - [25/Jun/2025 16:24:15] "GET /socket.io/?EIO=4&transport=polling&t=u7axi6vj&sid=NVEKnNMC7h2LesRcAAAY HTTP/1.1" 200 233 0.000123
+127.0.0.1 - - [25/Jun/2025 16:30:11] "GET /socket.io/?EIO=4&transport=websocket&sid=NVEKnNMC7h2LesRcAAAY HTTP/1.1" 200 0 356.360141
+127.0.0.1 - - [25/Jun/2025 16:30:11] "GET /socket.io/?EIO=4&transport=websocket&sid=DBN360etIC5BYvWwAAAJ HTTP/1.1" 200 0 4015.292666
+127.0.0.1 - - [25/Jun/2025 16:30:11] "GET /socket.io/?EIO=4&transport=websocket&sid=ap-kERcRrBvVKNjOAAAA HTTP/1.1" 200 0 4057.907075
+✅ Cartesia TTS initialized
+User -DpAl2qSu48HzId9AAAB connected
+User EfNQ5bSQPzuJ9gukAAAD connected
+User PsbjwOAQPtGXpjuWAAAF connected
+User JpwX4rfeGoFyVs67AAAH connected
+User EfNQ5bSQPzuJ9gukAAAD disconnected
+User NAKqZaTTPHL2nwcIAAAK connected
+User PsbjwOAQPtGXpjuWAAAF disconnected
+User 7M3vmdRrZBkZIwWFAAAN connected
+User JpwX4rfeGoFyVs67AAAH disconnected
+User aENCN7oYNU1ymEcGAAAQ connected
+User aENCN7oYNU1ymEcGAAAQ disconnected
+User lQsefvrmEzQBhlyIAAAT connected
+User lQsefvrmEzQBhlyIAAAT disconnected
+User 0FhhtSg_j1530EFiAAAW connected
+User 7M3vmdRrZBkZIwWFAAAN disconnected
+User 0FhhtSg_j1530EFiAAAW disconnected
+User SEFtLTyd1ymLdF1JAAAZ connected
+User SEFtLTyd1ymLdF1JAAAZ disconnected
+User NAKqZaTTPHL2nwcIAAAK disconnected
+User -DpAl2qSu48HzId9AAAB disconnected
+✅ Cartesia TTS initialized
