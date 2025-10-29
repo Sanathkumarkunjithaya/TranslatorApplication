@@ -178,4 +178,4 @@ Copy `.env.example` to `.env` and fill in your values:
 - For production, implement proper authentication
 - Use HTTPS for speech recognition
 - Secure the Flask secret key
-- Consider rate limiting and input validation
+- Consider rate limiting and input validation# Translation
